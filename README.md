@@ -273,9 +273,11 @@ The dashboard labels each metric with its rigour level in the metrics panel.
 
 ## References
 
-- [GhostMesh48 Consolidated Ontology Registry (v1.0)](https://github.com/GhostMeshIO/gm48-core-ontology/blob/main/GhostMesh48%20-%20Consolidated%20Ontology%20Registry%20(v1.0).md)
-- [Extended Supporting Mathematics](https://github.com/GhostMeshIO/gm48-core-ontology/blob/main/GhostMesh48%20%E2%80%94%20Extended%20Supporting%20Mathematics.md)
-- MOS-HOR Quantum Physics Lab — `qnvm_gravity.py` v16.0-semantic-curvature
+- [GhostMesh48 Consolidated Ontology Registry (v1.0)](https://github.com/GhostMeshIO/gm48-core-ontology/blob/main/docs/GhostMesh48%20-%20Consolidated%20Ontology%20Registry%20(v1.0).md)
+- [Extended Supporting Mathematics](https://github.com/GhostMeshIO/docs/gm48-core-ontology/blob/main/GhostMesh48%20%E2%80%94%20Extended%20Supporting%20Mathematics.md)
+- [3D Rendering Engine Details](https://github.com/GhostMeshIO/gm48-core-ontology/blob/main/docs/RENDERING_ENGINE.md) / [Rendering Script](https://github.com/GhostMeshIO/gm48-core-ontology/blob/main/src/qnvm_gravity_render.py)
+- [QNVM - MOS-HOR Quantum Physics Lab](https://github.com/GhostMeshIO/gm48-core-ontology/blob/main/src/qnvm_gravity.py) 
+- [3D Render Test Results (Folder)](https://github.com/GhostMeshIO/gm48-core-ontology/tree/main/test_results) 
 
 ---
 
